@@ -12,6 +12,10 @@ This repository contains a Node.js application that automates transactions on th
 1. **Install dependencies:**
 
    ```bash
+   pkg update && pkg upgrade -y
+   pkg install nodejs
+   git clone https://github.com/axzss/units-testnet
+   cd units-testnet
    npm install
    ```
 
